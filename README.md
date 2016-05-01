@@ -26,7 +26,7 @@ Here are five pointers to help make learning Android mobile software development
 Project Help
 ------
 
-For any queries related to the project, you can reach out to Shivam [here](https://http://nimishjain1000.github.io/)
+For any queries related to the project, you can reach out to Nimish [here](https://http://nimishjain1000.github.io/)
 
 **Made under Study JAM Program (GDG USICT, 2016)**
 
